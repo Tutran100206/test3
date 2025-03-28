@@ -1,0 +1,7 @@
+﻿  10sang2.cpp
+E:\kithuatlaptrinh\baitapktlt\10sang2\10sang2\10sang2.cpp(33,9): warning C4244: 'argument': conversion from 'double' to '_Elem', possible loss of data
+E:\kithuatlaptrinh\baitapktlt\10sang2\10sang2\10sang2.cpp(33,9): warning C4244:         with
+E:\kithuatlaptrinh\baitapktlt\10sang2\10sang2\10sang2.cpp(33,9): warning C4244:         [
+E:\kithuatlaptrinh\baitapktlt\10sang2\10sang2\10sang2.cpp(33,9): warning C4244:             _Elem=char
+E:\kithuatlaptrinh\baitapktlt\10sang2\10sang2\10sang2.cpp(33,9): warning C4244:         ]
+  10sang2.vcxproj -> E:\kithuatlaptrinh\baitapktlt\10sang2\x64\Debug\10sang2.exe
