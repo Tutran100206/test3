@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\kithuatlaptrinh\\baitapktlt\\10sang2\\",
+  "WorkspaceRootPath": "C:\\Users\\Tu\\Desktop\\git\\test3\\10sang2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA3D0D87-D2A3-4E52-B226-250119AD11FC}|10sang2\\10sang2.vcxproj|E:\\kithuatlaptrinh\\baitapktlt\\10sang2\\10sang2\\10sang2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CA3D0D87-D2A3-4E52-B226-250119AD11FC}|10sang2\\10sang2.vcxproj|C:\\Users\\Tu\\Desktop\\git\\test3\\10sang2\\10sang2\\10sang2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA3D0D87-D2A3-4E52-B226-250119AD11FC}|10sang2\\10sang2.vcxproj|solutionrelative:10sang2\\10sang2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "10sang2.cpp",
-              "DocumentMoniker": "E:\\kithuatlaptrinh\\baitapktlt\\10sang2\\10sang2\\10sang2.cpp",
+              "DocumentMoniker": "C:\\Users\\Tu\\Desktop\\git\\test3\\10sang2\\10sang2\\10sang2.cpp",
               "RelativeDocumentMoniker": "10sang2\\10sang2.cpp",
-              "ToolTip": "E:\\kithuatlaptrinh\\baitapktlt\\10sang2\\10sang2\\10sang2.cpp",
+              "ToolTip": "C:\\Users\\Tu\\Desktop\\git\\test3\\10sang2\\10sang2\\10sang2.cpp",
               "RelativeToolTip": "10sang2\\10sang2.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-27T14:54:33.724Z",
               "EditorCaption": ""
