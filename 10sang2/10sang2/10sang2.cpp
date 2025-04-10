@@ -1,7 +1,7 @@
-//chia lay du luu vao chuoi
-//dao nguoc chuoi roi xuat
+//su dung thu vien bitset va ham bitset<32>binary(a);
 
 #include<iostream>
+#include<bitset>
 #include<string>
 #include<algorithm>
 using namespace std;
@@ -22,17 +22,6 @@ void nhap(int& a) {
 }
 
 void doi10sang2(int a) {
-	string s;
-	while (a > 0) {
-		double x = a % 2;
-		double k = a /= 2;
-		if (k == 1) {
-			break;
-		}
-		else {
-			s += (x + '0');
-		}
-	}
-	reverse(s.begin(), s.end());
-	cout << s;
+	bitset<32>binary(a);
+	cout<<binary;
 }
